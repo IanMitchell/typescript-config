@@ -34,6 +34,22 @@ Then create or modify your `tsconfig.json` file depending on the situations belo
 }
 ```
 
+# Browser
+
+The browser configuration assumes bundling with Vite.
+
+```json
+{
+	"extends": "@0x57/typescript-config/browser.json",
+	"compilerOptions": {
+		"rootDir": "src",
+		"outDir": "dist"
+	},
+	"include": ["src", "test"],
+	"exclude": ["node_modules", "dist"]
+}
+```
+
 # Server Application
 
 If you are not using Bun, you may want to use the setup for a library instead.
