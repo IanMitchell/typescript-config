@@ -10,7 +10,7 @@ Install the package:
 bun add -D @0x57/typescript-config
 ```
 
-Then create or modify your `tsconfig.json` file depending on the situations below. 
+Then create or modify your `tsconfig.json` file depending on the situations below.
 
 ## Next.js
 
