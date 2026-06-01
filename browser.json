@@ -4,6 +4,6 @@
 	"extends": "./library.json",
 	"compilerOptions": {
 		"target": "es6",
-		"lib": ["dom", "dom.iterable", "esnext"]
+		"lib": ["dom", "esnext"]
 	}
 }

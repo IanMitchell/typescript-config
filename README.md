@@ -1,6 +1,6 @@
 # @0x57/typescript-config
 
-An opinionated shared TypeScript config targeting TypeScript v5.9.
+An opinionated shared TypeScript config targeting TypeScript v6+.
 
 ## Usage
 
