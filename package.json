@@ -1,13 +1,13 @@
 {
 	"name": "@0x57/typescript-config",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "Shared TypeScript configurations used by 0x57 projects",
 	"type": "module",
 	"exports": {
 		"./base.json": "./base.json",
 		"./browser.json": "./browser.json",
 		"./library.json": "./library.json",
-		"./next.json": "./next.json"
+		"./nextjs.json": "./nextjs.json"
 	},
 	"publishConfig": {
 		"access": "public"
